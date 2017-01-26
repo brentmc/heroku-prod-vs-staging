@@ -25469,7 +25469,7 @@
 	      _react2.default.createElement(
 	        'h1',
 	        null,
-	        'React Router Tutorial (Prod)'
+	        'React Router Tutorial (Prod 2)'
 	      ),
 	      _react2.default.createElement(
 	        'ul',
