@@ -6,7 +6,7 @@ export default React.createClass({
   render() {
     return (
       <div>
-        <h1>React Router Tutorial (Staging 1)</h1>
+        <h1>React Router Tutorial (Prod 3)</h1>
         <ul role="nav">
         	<li><NavLink to="/" onlyActiveOnIndex={true}>Home</NavLink></li>
           <li><NavLink to="/about" activeClassName="active">About</NavLink></li>
